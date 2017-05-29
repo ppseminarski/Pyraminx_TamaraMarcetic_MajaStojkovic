@@ -28,7 +28,7 @@ Opis programa:
 
 	Pyraminx je pravilni tetraedar, puzzla dizajnirana u stilu Rubikove kocke 3x3. Izmisljena je 1970. od strane Uwe Meffert.
 	
-	Ovaj program je pisan u programskom jeziku Python, koriscenjem skript i funkcionalne paradigme.
+	Ovaj program je pisan u programskom jeziku Python, koriscenjem skript, komponentne i funkcionalne paradigme.
 	Postoje dve verzije:
 	1) pyraminx_v0.py - boje svakog dela piramide se nasumicno generisu
 	2) pyraminx_v1.py - boje svakog dela piramide unosi korisnik
